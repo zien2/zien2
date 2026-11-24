@@ -6,6 +6,8 @@ I build end-to-end applications, from product workflows and APIs to data models 
 
 我专注于 AI 应用与全栈产品开发，也关注轻量化多模态模型和视觉问答。希望把研究想法落到可用的产品里。
 
+<img src="assets/yinni-blink.gif" width="144" alt="Yinni, a silver-haired character, blinking and smiling." />
+
 ## Featured work
 
 ### [LifeTree](https://github.com/zien2/LifeTree) — planning, growth visualization, and AI analysis
